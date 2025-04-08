@@ -73,7 +73,7 @@ Each project includes:
 ## 🎥 Walkthrough Video
 A detailed walkthrough of the three projects, including code explanations and metric analysis, is available on YouTube:
 
-📌 **Watch the video:** [YouTube Video Link](#)
+📌 **Watch the video:** [YouTube Video Link](https://youtu.be/5bnz8vDnWCg)
 
 ---
 
